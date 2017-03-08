@@ -71,10 +71,3 @@ class Vector:
         dot = self.dot(other)
         length_product = self.length() * other.length()
         return math.degrees(math.acos(dot / length_product))
-
-v = Vector((10, 5))
-u = Vector((7, 7))
-
-print v
-print v.get_normalised()
-print v.angle(u)
