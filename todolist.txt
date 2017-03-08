@@ -1,0 +1,32 @@
+=== TO DO LIST ===
+
+  = Menu Screen =
+  
+    - Welcome message
+    
+    - Instructions
+    
+    - Difficulty level
+    
+   Game (Game Class)
+  
+    - Scoring System
+    
+    - Timer
+    
+    - Character (Player class)
+      - Three lives
+      - Spritesheet
+      - Movement
+      - Ability: Train Strike
+      
+    - Trainlines
+      - Different timings
+      
+    - Collisions (Interaction class)
+      - Player and train
+      - Player and collectables
+      
+    - Collectables
+      - Tickets
+      - Train Strike pickup
