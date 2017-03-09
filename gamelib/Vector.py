@@ -21,7 +21,6 @@ class Vector:
     def copy(self):
         x = self.x
         y = self.y
-
         return (x, y)
 
     def mult(self, k):
